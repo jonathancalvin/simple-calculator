@@ -1,4 +1,15 @@
-# React + TypeScript + Vite
+# Simple Calculator
+This project is a simple calculator implementation using React Type Script. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator takes user input for two operands and the desired operation, then computes and displays the result.
+
+## How to run
+```
+$ git clone https://github.com/jonathancalvin/simple-calculator.git
+$ cd simple-calculator
+$ npm install
+$ npm run dev
+```
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
